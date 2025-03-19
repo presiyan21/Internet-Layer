@@ -1,4 +1,24 @@
 ![🖧 Internet_Layer](https://github.com/user-attachments/assets/4ad6836b-39ba-4d18-b629-d300a68ddacc)
+## 📝 Exercises Overview
+
+- Learning about the TCP/IP Model's Internet Layer. 
+- Python adaptation of the conventional DHCP client to server structure. 
+- Adopting DHCP techniques for continuously allocating IP addresses. 
+- Fetching in addition to examining URLs' & devices' IP addresses. 
+- How subnetting can be applied to successfully establish IP allocations between various departments.
+
+## 🚀 Installation and Usage
+
+### ✅ Prerequisites
+
+- Python 3.x installed on your system.
+
+- Required Python libraries:
+
+```pip install json socket ipaddress```
+
+- A code editor (VS Code, PyCharm) or terminal.
+
 
 ![Client](https://github.com/user-attachments/assets/4ca4d66a-c6ab-45cc-839e-cddf85f95ea9)
 
