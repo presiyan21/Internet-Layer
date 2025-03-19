@@ -1,4 +1,9 @@
 ![🖧 Internet_Layer](https://github.com/user-attachments/assets/4ad6836b-39ba-4d18-b629-d300a68ddacc)
+
+## 📌 Introduction
+
+This real-world Python seminar on the Internet Layer of the TCP/IP model can be downloaded in this repository. The fundamental networking topics are explored in the following session, among them IP address analysis and DHCP client-server communication. You will have successfully investigated IP address attributes, subnetted, and set up a straightforward DHCP system by the completion of this seminar.
+
 ## 📝 Exercises Overview
 
 - Learning about the TCP/IP Model's Internet Layer. 
